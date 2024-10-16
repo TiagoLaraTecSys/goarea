@@ -1,4 +1,4 @@
-package goarea
+package main
 
 import "math"
 
